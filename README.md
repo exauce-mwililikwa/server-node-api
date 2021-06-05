@@ -1,2 +1,2 @@
-# server-node-api
-my server for api learning
+# server-node
+ceci est mon premier pas vers node js
